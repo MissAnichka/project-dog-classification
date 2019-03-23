@@ -1,0 +1,15 @@
+opencv-python==3.4.2.16
+jupyter
+matplotlib
+pandas
+numpy
+pillow
+scipy
+tqdm
+scikit-learn
+scikit-image
+seaborn
+h5py
+ipykernel
+bokeh
+pickleshare
